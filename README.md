@@ -1,6 +1,6 @@
 # Coffee Shop Data Engineering Project
 ## Group Code : Microsoft Data Engineer SHR1_AIS4_M1e
-## Team Name : Just a Team 
+## Team Name : Just a Team (team 1)
 
 ## Overview
 
